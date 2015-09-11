@@ -1,0 +1,83 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=C5(C0805)
+Added Component: Designator=C6(C0805)
+Added Component: Designator=C7(C0805)
+Added Component: Designator=C8(C0805)
+Added Component: Designator=C9(C0805)
+Added Component: Designator=C10(C0805)
+Added Component: Designator=Ind1(Ind_3mm)
+Added Component: Designator=Ind2(Ind_3mm)
+Added Component: Designator=Ind3(Ind_3mm)
+Added Component: Designator=Ind4(Ind_3mm)
+Added Component: Designator=Ind5(Ind_3mm)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=R1(2012[0805])
+Added Component: Designator=R2(2012[0805])
+Added Component: Designator=R3(2012[0805])
+Added Pin To Net: NetName=B1 Pin=C10-2
+Added Pin To Net: NetName=B1 Pin=Q1-1
+Added Pin To Net: NetName=B1 Pin=R1-1
+Added Pin To Net: NetName=B1 Pin=R2-1
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=Ind2-1
+Added Pin To Net: NetName=B2 Pin=Q2-1
+Added Pin To Net: NetName=B2 Pin=R3-2
+Added Net: Name=B2
+Added Pin To Net: NetName=C1 Pin=C3-2
+Added Pin To Net: NetName=C1 Pin=Ind1-2
+Added Pin To Net: NetName=C1 Pin=Q1-3
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=C5-2
+Added Pin To Net: NetName=C2 Pin=C6-2
+Added Pin To Net: NetName=C2 Pin=Ind3-2
+Added Pin To Net: NetName=C2 Pin=Q2-3
+Added Net: Name=C2
+Added Pin To Net: NetName=E1 Pin=C1-2
+Added Pin To Net: NetName=E1 Pin=C2-2
+Added Pin To Net: NetName=E1 Pin=C4-2
+Added Pin To Net: NetName=E1 Pin=C7-2
+Added Pin To Net: NetName=E1 Pin=C8-2
+Added Pin To Net: NetName=E1 Pin=C9-2
+Added Pin To Net: NetName=E1 Pin=Ind2-2
+Added Pin To Net: NetName=E1 Pin=P1-2
+Added Pin To Net: NetName=E1 Pin=P2-2
+Added Pin To Net: NetName=E1 Pin=P3-2
+Added Pin To Net: NetName=E1 Pin=Q1-2
+Added Pin To Net: NetName=E1 Pin=Q2-2
+Added Pin To Net: NetName=E1 Pin=R3-1
+Added Net: Name=E1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-1
+Added Pin To Net: NetName=NetC6_1 Pin=Ind4-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=Ind4-2
+Added Pin To Net: NetName=NetC8_1 Pin=Ind5-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=Ind5-2
+Added Pin To Net: NetName=NetC9_1 Pin=P3-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=P2-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=Ind1-1
+Added Pin To Net: NetName=VCC Pin=Ind3-1
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Net: Name=VCC
+Added Class: Name=Driver_Ampli
+Added Room: Name=Driver_Ampli
